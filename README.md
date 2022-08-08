@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/Hugoguiheneuf/Hugoguiheneuf/blob/main/Assets/Dancing_Regular-Show.gif">
+</p>
+<h1 align="center">Hi there 👋</h1>
+<div align="center">
+ <img class="img" src="https://spotify-github-profile.vercel.app/api/view?uid=thekenny78&cover_image=true&theme=default&bar_color_cover=true" />
+</div>
+
 
 <!--
 **Hugoguiheneuf/Hugoguiheneuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

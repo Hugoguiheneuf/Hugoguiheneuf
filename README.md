@@ -33,9 +33,6 @@
 
 
 ---
-<div align="center">
- <img class="img" src="https://spotify-recently-played-readme.vercel.app/api?user=thekenny78" />
-</div>
 
 ### Reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-HugoGuihéneuf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-guihéneuf)
+[![Linkedin Badge](https://img.shields.io/badge/-HugoGuihéneuf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-guiheneuf)
